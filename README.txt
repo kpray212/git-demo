@@ -7,3 +7,4 @@ Polaroid tumeric health goth 8-bit gastropub next level typewriter fingerstache 
 
 Files to be in website:
 index.html
+dat.jpg
